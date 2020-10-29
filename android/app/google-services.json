@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029176208094",
+    "firebase_url": "https://daily-event-reminders.firebaseio.com",
+    "project_id": "daily-event-reminders",
+    "storage_bucket": "daily-event-reminders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029176208094:android:e6043f200e5cfe34ce304f",
+        "android_client_info": {
+          "package_name": "com.dailyeventreminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029176208094-egrqqt8f4rnoqr8eaeefdurk9pc5so0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dailyeventreminders",
+            "certificate_hash": "e93299002696152cfaa863c476c12c2c040020de"
+          }
+        },
+        {
+          "client_id": "1029176208094-e31so9rv62hsqqso6ed6gag3fc6ok2m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2iLn--j-0P9gLZLiMo5SzUlr10n03K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029176208094-e31so9rv62hsqqso6ed6gag3fc6ok2m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
